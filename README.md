@@ -7,6 +7,10 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-38B2AC)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6)](https://www.typescriptlang.org/)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-brightgreen)](https://healthify-landing.vercel.app/)
+
+> 🔗 **Live Demo URL:** [https://healthify-landing.vercel.app/](https://healthify-landing.vercel.app/)  
+> 📦 **GitHub Repository:** [https://github.com/huzaifa157/healthify-landing](https://github.com/huzaifa157/healthify-landing)
 
 ---
 
