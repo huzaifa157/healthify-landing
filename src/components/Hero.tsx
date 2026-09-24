@@ -9,7 +9,7 @@ export const Hero: React.FC = () => {
   };
 
   return (
-    <section id="home" className="relative overflow-hidden pt-8 pb-16 lg:pt-16 lg:pb-24">
+    <section id="home" className="relative overflow-hidden pt-6 pb-10 lg:pt-10 lg:pb-14">
       {/* Background soft ambient gradient circles */}
       <div className="absolute top-10 left-1/2 -translate-x-1/2 w-[700px] h-[500px] bg-brand-light/40 rounded-full blur-3xl -z-10 pointer-events-none" />
       <div className="absolute top-40 right-10 w-[350px] h-[350px] bg-emerald-100/30 rounded-full blur-2xl -z-10 pointer-events-none" />

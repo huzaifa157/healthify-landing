@@ -36,7 +36,7 @@ export const StatsBar: React.FC = () => {
   ];
 
   return (
-    <section className="relative z-20 -mt-6 sm:-mt-8 mb-12 sm:mb-16">
+    <section className="relative z-20 -mt-4 sm:-mt-6 mb-6 sm:mb-8">
       <View className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <View className="bg-white rounded-3xl shadow-card border border-brand-border/70 p-6 sm:p-8">
           <View className="grid grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 lg:divide-x lg:divide-brand-border/60">

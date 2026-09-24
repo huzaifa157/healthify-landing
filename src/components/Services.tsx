@@ -10,7 +10,7 @@ export const Services: React.FC = () => {
   };
 
   return (
-    <section id="services" className="py-16 sm:py-20 lg:py-24 bg-white">
+    <section id="services" className="py-10 sm:py-12 lg:py-16 bg-white">
       <View className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}

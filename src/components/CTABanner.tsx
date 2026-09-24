@@ -9,9 +9,9 @@ export const CTABanner: React.FC = () => {
   };
 
   return (
-    <section className="py-12 sm:py-16 bg-brand-cream">
+    <section className="py-8 sm:py-10 bg-brand-cream">
       <View className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <View className="relative bg-brand-forest rounded-3xl overflow-hidden px-6 py-12 sm:px-12 sm:py-16 lg:py-20 shadow-elevated">
+        <View className="relative bg-brand-forest rounded-3xl overflow-hidden px-6 py-10 sm:px-12 sm:py-12 lg:py-14 shadow-elevated">
           
           {/* Subtle background glow effect */}
           <div className="absolute top-0 right-0 w-[400px] h-[400px] bg-emerald-500/10 rounded-full blur-3xl -z-0 pointer-events-none" />

@@ -17,7 +17,7 @@ export const Advantages: React.FC = () => {
   };
 
   return (
-    <section id="advantages" className="py-16 sm:py-20 lg:py-24 bg-brand-cream">
+    <section id="advantages" className="py-10 sm:py-12 lg:py-16 bg-brand-cream">
       <View className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Header Block */}

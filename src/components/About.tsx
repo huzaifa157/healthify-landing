@@ -15,7 +15,7 @@ export const About: React.FC = () => {
   };
 
   return (
-    <section id="about" className="py-16 sm:py-20 lg:py-24 bg-brand-sage/40">
+    <section id="about" className="py-10 sm:py-12 lg:py-16 bg-brand-sage/40">
       <View className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <View className="flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
           
